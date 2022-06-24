@@ -1,11 +1,11 @@
 #include <ThingerESP8266.h>
 #include <ESP8266WiFi.h>
 //WiFiClient client;
-#define USERNAME "nabilpatel4012"
-#define DEVICE_ID "NodeMCU"
-#define DEVICE_CREDENTIAL "y@eNBEWUjY1api40"
-#define SSID "Connecting"
-#define SSID_PASSWORD "12345678"
+#define USERNAME "YOUR THINGER USERNAME"
+#define DEVICE_ID "DEVICE ID"
+#define DEVICE_CREDENTIAL "YOUR CREDENTIALS"
+#define SSID "YOUR WIFI/SSID NAME"
+#define SSID_PASSWORD "WIFI_PASSWORD"
 #define SENSOR  D3
 ThingerESP8266 thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 long currentMillis = 0;
