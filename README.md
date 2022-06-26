@@ -9,3 +9,20 @@ Water wastage is a worldwide issue. It needs constant monitoring to avoid water 
  This is the Bar where it shows the volume of water, that is how much water is used till now. This is displayed in "mls" which is "Milli Literes".
 ## Time Line Graph:
  This Graph just shows the actions of water flow Rate.
+ 
+ #### Leave a ⭐ from [here](https://github.com/nabilpatel4012) if you like any repo or wanna support me 😁        
+## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/nabil-patel-38a81b20b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/NabilPatel4012"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/nabil_patel_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=nabilpatel4012">
+</a>
+<a href="https://github.com/nabilpatel4012?tab=followers"><img src="https://img.shields.io/github/followers/nabilpatel4012?label=Followers&style=social" alt="GitHub Badge"></a>
